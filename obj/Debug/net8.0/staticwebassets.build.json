@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "D71TJqOuM8mPPGVWdxNceUGhC8FHuocYEr3K2LtKTbs=",
+  "Source": "TetrisApp",
+  "BasePath": "_content/TetrisApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TetrisApp\\wwwroot",
+      "Source": "TetrisApp",
+      "ContentRoot": "C:\\Users\\Joseph Cem\\TetrisApp\\wwwroot\\",
+      "BasePath": "_content/TetrisApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Joseph Cem\\TetrisApp\\wwwroot\\index.html",
+      "SourceId": "TetrisApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Joseph Cem\\TetrisApp\\wwwroot\\",
+      "BasePath": "_content/TetrisApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Joseph Cem\\TetrisApp\\wwwroot\\tetris.js",
+      "SourceId": "TetrisApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Joseph Cem\\TetrisApp\\wwwroot\\",
+      "BasePath": "_content/TetrisApp",
+      "RelativePath": "tetris.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\tetris.js"
+    }
+  ]
+}
